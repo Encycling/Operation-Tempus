@@ -1,4 +1,5 @@
 # Welcome to Operation-T.E.M.P.U.S.
+***(NOT FINISHED)***
 A stupid ARG game created in Java.<br />
 # Credits
 # Chez_Poofz (Owner, learning Java)
