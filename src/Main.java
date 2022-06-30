@@ -5,6 +5,8 @@ public class Main {
 		// W.I.P
 		// This project will start once Chez_Poofz is done learning Java.
 		System.out.println("testing");
+		
+		Test test = new Test();
 	}
 
 }
