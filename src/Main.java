@@ -6,10 +6,6 @@ public class Main {
 		// This project will start once Chez_Poofz is done learning Java.
 		// NOT FINISHEDDDDDDDDD
 		System.out.println("testing");
-
-		Test test = new Test("test");
-		
-		System.out.println(test.test);
 	}
 
 }
