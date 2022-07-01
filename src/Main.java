@@ -10,9 +10,6 @@ public class Main {
 		Test test = new Test("test");
 		
 		System.out.println(test.test);
-		
-		System.out.println("TESTYDESTY");
-		System.out.println("WWWWWW");
 	}
 
 }
