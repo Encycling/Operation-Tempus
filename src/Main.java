@@ -16,7 +16,7 @@ public class Main {
 		char op;
 		int num1;
 		int num2;
-		
+		// basic java shit.
 		try {
 			System.out.print("Enter a number: ");
 			num1 = scanner.nextInt();
@@ -28,7 +28,7 @@ public class Main {
 			
 			System.out.println();
 			
-			System.out.println("Example: *, /, +, -");
+			System.out.println("Example: +,-,/,*");
 			System.out.println("Enter an operator: ");
 			op = scanner.next().charAt(0);
 			
@@ -51,19 +51,19 @@ public class Main {
 			}
 			
 		}
-		
+		// if you try to divide by zero, this message will show up.
 		catch(ArithmeticException e) {
 			System.out.println("Can't divide by zero.");
 		}
-		
+		// if you enter a string instead of a number, this will show up.
 		catch(InputMismatchException e) {
 			System.out.println("Enter a proper number.");
 		}
-		
+		// If theres another problem, this will show up.
 		catch(Exception e) {
 			System.out.println("You messed something up.");
 		}
-		
+		// closing the scanner.
 		finally{
 			scanner.close();
 		}
