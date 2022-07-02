@@ -21,15 +21,11 @@ public class Main {
 			System.out.print("Enter a number: ");
 			num1 = scanner.nextInt();
 			
-			System.out.println();
-			
 			System.out.print("Enter another number: ");
 			num2 = scanner.nextInt();
 			
-			System.out.println();
-			
 			System.out.println("Example: +,-,/,*");
-			System.out.println("Enter an operator: ");
+			System.out.print("Enter an operator: ");
 			op = scanner.next().charAt(0);
 			
 			switch(op) {
