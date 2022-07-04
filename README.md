@@ -10,4 +10,4 @@ A stupid ARG game created in Java.<br />
 - EpicGamer45#9027
 # Other Information
 - Chez_Poofz is learning how to code in the Summer
-- This will become open source once the first person solves the ARG
+- Source code will be released once the first person (or team) finishes the ARG
