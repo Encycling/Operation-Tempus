@@ -2,7 +2,7 @@
 ***(NOT FINISHED)***<br />
 A stupid ARG game created in Java.<br />
 # Credits
-# Chez_Poofz (Owner, learning Java)
+# Chez_Poofz (Owner/Idea Maker, learning Java)
 - [@ChezPoofz](https://github.com/ChezPoofz)
 - Chez_Poofz#7899
 # EpicGamer45 (Coder, Also known as **MannyPardo3106**)
