@@ -5,7 +5,7 @@ A stupid ARG game created in Java.<br />
 # Chez_Poofz (Owner, learning Java)
 - [@ChezPoofz](https://github.com/ChezPoofz)
 - Chez_Poofz#7899
-# EpicGamer45 (Coder, Also known as **MannyPardo3106**)
+# Encycling (Coder, Also known as **MannyPardo3106 or EpicGamer45**)
 - [@Encycling](https://github.com/Encycling)
 - EpicGamer45#9027
 # Other Information
