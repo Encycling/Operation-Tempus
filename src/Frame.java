@@ -5,6 +5,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.SwingConstants;
+import javax.swing.JOptionPane;
 
 public class Frame extends JFrame implements ActionListener{
 	JLabel label;
@@ -41,11 +42,16 @@ public class Frame extends JFrame implements ActionListener{
 		this.setLayout(null);
 		this.add(button);
 	}
+	
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		if(e.getSource()==button) {
 			this.dispose();
+			MainGame();
 		}
 		
+	}
+	static void MainGame(){
+		JOptionPane.showMessageDialog(null, "LEVEL 0", "Finally, we're starting...", JOptionPane.WARNING_MESSAGE);
 	}
 }
