@@ -8,7 +8,7 @@ A stupid puzzle game created in Java.<br />
  # Chez_Poofz (Owner/Idea Maker, learning Java)
 - [@ChezPoofz](https://github.com/ChezPoofz)
 - Chez_Poofz#7899
-# (testers)
+# TESTERS
 - itoaster5#5877
 # Other Information
 - Chez_Poofz is learning how to code in the Summer
