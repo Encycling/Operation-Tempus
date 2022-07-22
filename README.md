@@ -8,6 +8,8 @@ A stupid puzzle game created in Java.<br />
 # Encycling (Coder, Also known as **MannyPardo3106 or EpicGamer45**)
 - [@Encycling](https://github.com/Encycling)
 - EpicGamer45#9027
+# itoaster5 (Tester)
+- itoaster5#5877
 # Other Information
 - Chez_Poofz is learning how to code in the Summer
 - Source code will be released once the first person (or team) finishes the ARG
