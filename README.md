@@ -2,12 +2,12 @@
 ***(NOT FINISHED)***<br />
 A stupid puzzle game created in Java.<br />
 # Credits
-# Chez_Poofz (Owner/Idea Maker, learning Java)
-- [@ChezPoofz](https://github.com/ChezPoofz)
-- Chez_Poofz#7899
 # Encycling (Coder, Also known as **MannyPardo3106 or EpicGamer45**)
 - [@Encycling](https://github.com/Encycling)
 - EpicGamer45#9027
+ # Chez_Poofz (Owner/Idea Maker, learning Java)
+- [@ChezPoofz](https://github.com/ChezPoofz)
+- Chez_Poofz#7899
 # itoaster5 (Tester)
 - itoaster5#5877
 # Other Information
