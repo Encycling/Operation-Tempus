@@ -13,7 +13,8 @@ public class Main {
 		
 		String[] options = {"Ummm.. Okay???","I don't care","fuck off lol"};
 		
-		int intro = JOptionPane.showOptionDialog(null, "Made by EpicGamer45#9027, idea by Chez_Poofz#7899", "Welcome to Operation T.E.M.P.U.S", JOptionPane.YES_NO_CANCEL_OPTION, JOptionPane.INFORMATION_MESSAGE, null, options, 0);
+		int intro = JOptionPane.showOptionDialog(null, "Made by EpicGamer45#9027, idea by Chez_Poofz#7899", "Welcome to Operation T.E.M.P.U.S",
+				JOptionPane.YES_NO_CANCEL_OPTION, JOptionPane.INFORMATION_MESSAGE, null, options, 0);
 		
 		if(intro == 2) {
 			JOptionPane.showMessageDialog(null, "wow man okay.", "fuck you bruh", JOptionPane.ERROR_MESSAGE);
@@ -25,6 +26,9 @@ public class Main {
 			if(angy == 0) {
 				Frame frame = new Frame();
 			}
+		}
+		else if(intro == 0) {
+			Frame frame = new Frame();
 		}
 	}
 
