@@ -11,7 +11,7 @@ public class Main {
 
 		// The main class.
 
-		// CREDITS TO BRO CODE (https://www.youtube.com/c/BroCodez)
+		// CREDITS TO BRO CODE FOR HELPING ME LEARN JAVA(https://www.youtube.com/c/BroCodez)
 		
 		String[] options = {"Ummm.. Okay???","I don't care","fuck off lol"};
 		
