@@ -10,7 +10,6 @@ public class Frame extends JFrame implements ActionListener{
 	JLabel label;
 	JButton button;
 	
-	
 	Frame(){
 		button = new JButton();
 		button.setBounds(150,80,250,50);

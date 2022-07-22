@@ -7,7 +7,7 @@ public class Main {
 		// This project will start once Chez_Poofz is done learning Java.
 		// NOT FINISHED
 
-		// The first frame.
+		// The main class.
 
 		// CREDITS TO BRO CODE (https://www.youtube.com/c/BroCodez)
 		
@@ -29,6 +29,9 @@ public class Main {
 		}
 		else if(intro == 0) {
 			Frame frame = new Frame();
+		}
+		else {
+			JOptionPane.showMessageDialog(null, "If you got this, screen shot it and send it to me.", "TF!!! HOWWW!!!",JOptionPane.PLAIN_MESSAGE);
 		}
 	}
 
