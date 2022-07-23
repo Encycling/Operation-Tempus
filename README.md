@@ -1,5 +1,5 @@
 # Welcome to Operation-T.E.M.P.U.S.
-***(NOT FINISHED)***<br />
+***(ABANDONED AND BROKEN)***<br />
 A stupid puzzle game created in Java.<br />
 # Credits
 # Encycling (Coder, Also known as **MannyPardo3106 or EpicGamer45**)
