@@ -1,4 +1,4 @@
-#(ABANDONED AND BROKEN)
+# (ABANDONED AND BROKEN)
 I genuinely wanted to finish this project, but there were a lot of java swing bugs that I had no idea how to fix. Worst of all, on stackoverflow, there were no answers that fixed my problem. Thanks to anyone who supported this project.
 
 ---------------------------------------------------------------
