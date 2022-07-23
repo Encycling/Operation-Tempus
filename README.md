@@ -1,5 +1,5 @@
 # (ABANDONED AND BROKEN)
-I genuinely wanted to finish this project, but there were a lot of java swing bugs that I had no idea how to fix. Worst of all, on stackoverflow, there were no answers that fixed my problem. Thanks to anyone who supported this project. Especially the people in the credits. 🗑️
+I genuinely wanted to finish this project, but there were a lot of java swing bugs that I had no idea how to fix. Worst of all, on stackoverflow, there were no answers that fixed my problem. Thanks to anyone who supported this project. Especially the people in the credits. This project however, allowed me to understand somethings about java, which is a good thing. I was able to actually learn from this project which is important. But, it's in the trash bin :( 🗑️
 
 ---------------------------------------------------------------
 
