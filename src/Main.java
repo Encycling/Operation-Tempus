@@ -4,7 +4,9 @@ public class Main {
 
 	public static void main(String[] args) {
 		// !!! SORRY FOR MY MESSY CODE !!!
-		
+		//------------------------------------------------ DEAD PROJECT ----------------------------------------------------
+		String thisIsADEadProject = "THIS IS A DEAD PROJECT";
+		//------------------------------------------------ DEAD PROJECT ----------------------------------------------------
 		// W.I.P
 		// This project will start once Chez_Poofz is done learning Java.
 		// NOT FINISHED

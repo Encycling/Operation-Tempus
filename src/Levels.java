@@ -3,7 +3,9 @@ import javax.swing.JOptionPane;
 
 public class Levels{
 	
-	
+	//------------------------------------------------ DEAD PROJECT ----------------------------------------------------
+		String thisIsADEadProject = "THIS IS A DEAD PROJECT";
+		//------------------------------------------------ DEAD PROJECT ----------------------------------------------------
 	
 	
 	static void Level0() {

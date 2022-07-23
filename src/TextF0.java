@@ -11,6 +11,11 @@ import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 
 public class TextF0 extends JFrame implements ActionListener{
+	
+	//------------------------------------------------ DEAD PROJECT ----------------------------------------------------
+		String thisIsADEadProject = "THIS IS A DEAD PROJECT";
+		//------------------------------------------------ DEAD PROJECT ----------------------------------------------------
+	
 	JButton button;
 	JTextField textField;
 	

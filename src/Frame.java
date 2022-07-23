@@ -9,6 +9,11 @@ import javax.swing.SwingConstants;
 import javax.swing.JOptionPane;
 
 public class Frame extends JFrame implements ActionListener{
+	//------------------------------------------------ DEAD PROJECT ----------------------------------------------------
+	String thisIsADEadProject = "THIS IS A DEAD PROJECT";
+	//------------------------------------------------ DEAD PROJECT ----------------------------------------------------
+	
+	
 	JLabel label;
 	JButton button;
 	
