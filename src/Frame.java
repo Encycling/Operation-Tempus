@@ -31,8 +31,6 @@ public class Frame extends JFrame implements ActionListener{
 		label.setHorizontalAlignment(JLabel.CENTER);
 		label.setVerticalAlignment(JLabel.TOP);
 		
-		this.pack();
-		this.setLocationRelativeTo(null);
 		this.setVisible(true);
 		this.setSize(500,200);
 		this.setVisible(true);
@@ -42,6 +40,8 @@ public class Frame extends JFrame implements ActionListener{
 		this.add(label);
 		this.setLayout(new FlowLayout());
 		this.add(button);
+		this.pack();
+		this.setLocationRelativeTo(null);
 	}
 	
 	@Override

@@ -17,7 +17,7 @@ public class Main {
 		
 		
 		
-		int intro = JOptionPane.showOptionDialog(null, "Made by EpicGamer45#9027, idea by Chez_Poofz#7899", "Welcome to Operation T.E.M.P.U.S",
+		int intro = JOptionPane.showOptionDialog(null, "<html>Made by EpicGamer45#9027, idea by Chez_Poofz#7899<br/>(YOUR PROGRESS WILL NOT BE SAVED)</html>", "Welcome to Operation T.E.M.P.U.S",
 				JOptionPane.YES_NO_CANCEL_OPTION, JOptionPane.INFORMATION_MESSAGE, null, options, 0);
 		
 		if(intro == 2) {

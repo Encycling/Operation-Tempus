@@ -13,7 +13,7 @@ public class Levels{
 		JOptionPane.showMessageDialog(null, "I'm going to give you a task to decode an encrypted message.", "Some info", JOptionPane.INFORMATION_MESSAGE);
 		JOptionPane.showMessageDialog(null, "This is going to be quite easy.", "Some info", JOptionPane.INFORMATION_MESSAGE);
 		
-		Frame0 frame0 = new Frame0();
+		TextF0 text0 = new TextF0();
 	}
 	
 	static void Level1() {
