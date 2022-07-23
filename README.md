@@ -1,5 +1,9 @@
+#***(ABANDONED AND BROKEN)***<br />
+I genuinely wanted to finish this project, but there were a lot of java swing bugs that I had no idea how to fix. Worst of all, on stackoverflow, there were no answers that fixed my problem. Thanks to anyone who supported this project.
+
+---------------------------------------------------------------
+
 # Welcome to Operation-T.E.M.P.U.S.
-***(ABANDONED AND BROKEN)***<br />
 A stupid puzzle game created in Java.<br />
 # Credits
 # Encycling (Coder, Also known as **MannyPardo3106 or EpicGamer45**)
@@ -10,6 +14,3 @@ A stupid puzzle game created in Java.<br />
 - Chez_Poofz#7899
 # TESTERS
 - itoaster5#5877
-# Other Information
-- Chez_Poofz is learning how to code in the Summer
-- Source code will be released once the first person (or team) finishes the ARG
