@@ -34,6 +34,7 @@ public class Main {
 			int angy = JOptionPane.showOptionDialog(null, "You still wanna play? You sound angry.", "*madddddddd*", JOptionPane.YES_NO_OPTION, JOptionPane.WARNING_MESSAGE, null, null, 0);
 			
 			if(angy == 0) {
+				JOptionPane.showMessageDialog(null, "WARNING: If you see a window that looks like this, don't click off. Otherwise it will automatically close.", "WARNING", JOptionPane.WARNING_MESSAGE);
 				Frame frame = new Frame();
 			}
 		}
@@ -42,6 +43,7 @@ public class Main {
 		
 		// If you choose the "uhh... okay" choice
 		else if(intro == 0) {
+			JOptionPane.showMessageDialog(null, "WARNING: If you see a window that looks like this, don't click off. Otherwise it will automatically close.", "WARNING", JOptionPane.WARNING_MESSAGE);
 			Frame frame = new Frame();
 		}
 		else {

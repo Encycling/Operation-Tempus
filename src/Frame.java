@@ -1,3 +1,4 @@
+import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
@@ -39,7 +40,7 @@ public class Frame extends JFrame implements ActionListener{
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setTitle("Before we start");
 		this.add(label);
-		this.setLayout(null);
+		this.setLayout(new FlowLayout());
 		this.add(button);
 	}
 	
@@ -47,11 +48,9 @@ public class Frame extends JFrame implements ActionListener{
 	public void actionPerformed(ActionEvent e) {
 		if(e.getSource()==button) {
 			this.dispose();
-			MainGame();
+			Levels.Level0();
 		}
 		
 	}
-	static void MainGame(){
-		JOptionPane.showMessageDialog(null, "LEVEL 0", "Finally, we're starting...", JOptionPane.WARNING_MESSAGE);
-	}
+	
 }
